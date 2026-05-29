@@ -1,4 +1,4 @@
-Hey! My name is Lahari Sengupta (she/her)
+Hey! It's Lahari Sengupta (she/her)
 ========================================================================================================================================
 
 Logistics & Resource Optimization Consultant and a Mathematical Thinker
