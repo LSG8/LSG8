@@ -27,7 +27,7 @@ Logistics & Resource Optimization Consultant and a Mathematical Thinker
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p><br></br>
 
-<div align="left"><b>Check my Works</b><div align="left"><a href="https://github.com/LSG8/OR-solutions" align="left"><img src="https://github.com/LSG8/LSG8/blob/main/maths2.png" align="left" width="15%"/></a></div></div><br></br><br></br>
+<div align="left"><b>Check my Works</b><div align="left"><a href="https://github.com/LSG8/OR-solutions" align="left"><img src="https://github.com/LSG8/LSG8/blob/main/maths2.png" align="left" width="12%"/></a></div></div><br></br><br></br><br></br><br></br>
 
 <div align="left"><b>Socials</b>
 
